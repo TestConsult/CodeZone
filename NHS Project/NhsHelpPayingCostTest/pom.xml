@@ -10,7 +10,8 @@
 
   <name>NHSHelpPayingCostTest</name>
   <!-- FIXME change it to the project's website -->
-  <url>https://services.nhsbsa.nhs.uk/check-for-help-paying-nhs-costs/</url>
+  <url>http://www.example.com/</url>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -19,6 +20,7 @@
   </properties>
 
   <dependencies>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -64,6 +66,7 @@
       <version>3.3.0</version>
     </dependency>
   </dependencies>
+
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
