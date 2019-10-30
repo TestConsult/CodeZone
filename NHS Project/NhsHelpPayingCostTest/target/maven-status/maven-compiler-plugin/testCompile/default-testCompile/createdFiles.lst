@@ -1,0 +1,3 @@
+uk\nhs\nhsbsa\services\hooks\ScenarioHooks.class
+uk\nhs\nhsbsa\services\NhsRunnerCukes.class
+uk\nhs\nhsbsa\services\nhsPayCheckStepDefinition\WalesStepDefinition.class
